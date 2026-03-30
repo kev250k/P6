@@ -1,0 +1,6 @@
+{
+"prompt": "A highly realistic physical scene showing overfitting in machine learning. Scene: A tailor obsessively crafting an extremely complex, overly detailed suit on a mannequin. The suit fits the mannequin perfectly with unnecessary intricate patterns and adjustments, but nearby real people are trying to wear similar suits that clearly do not fit them at all. No text, no labels, no diagrams. Style: cinematic, ultra-realistic, dramatic lighting, strong depth, magazine photography style. Composition: focus on the mannequin with the perfect suit, with real humans in the background struggling with ill-fitting clothes. Avoid abstract visuals, avoid AI icons, avoid charts or graphs.",
+"model": "DALL·E 3",
+"concept": "overfitting",
+"metaphor": "A tailor creates a perfectly fitted suit for a mannequin, but the same design fails to fit real people, showing lack of generalization."
+}
